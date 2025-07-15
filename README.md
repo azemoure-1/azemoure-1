@@ -1,16 +1,18 @@
-### Hi there 👋
+👋 Hi, I'm **Amine Azemour** – a Data Analyst & Engineer passionate about turning data into smart, scalable solutions.
 
-<!--
-**azemoure-1/azemoure-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I work on:
+- 🚀 Data pipelines (Talend, Apache Spark, Databricks)
+- 📊 Real-time analytics and dashboards (SQL, Power BI, Python)
+- 🤖 AI & ML projects (recommendation systems, anomaly detection, LangChain-based chatbots)
 
-Here are some ideas to get you started:
+🎓 Currently pursuing a Master's in Artificial Intelligence, Data Science & Digitalization.  
+📚 Certified in Azure Data Fundamentals (DP-900), Oracle AI Vector Search, and the ML Specialization by Andrew Ng (Coursera).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Most of my projects focus on:
+- Real-time data processing  
+- AI-powered features (NLP, ML models, Vector Search)  
+- Cloud-based solutions with Azure & GCP
+
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/amine-azemour)
+
+🌱 Always learning. Always building.
